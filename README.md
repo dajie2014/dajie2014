@@ -1,4 +1,6 @@
-# Jie Da
+# 达捷 · Jie Da
+
+作曲家 · 江西财经大学硕士生导师 · 汉诺威音乐学院作曲博士
 
 做音乐，也写点给自己用的小工具。
 
@@ -25,7 +27,10 @@
 
 ---
 
-# Jie Da
+# Jie Da (达捷)
+
+Composer · Master's supervisor at Jiangxi University of Finance and Economics ·
+Doctorate in composition from the Hanover University of Music
 
 I make music, and small tools for my own use.
 
