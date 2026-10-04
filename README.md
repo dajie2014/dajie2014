@@ -9,13 +9,12 @@
 **Dictation Turbo** —— Mac 上任何地方双击 Control，说一句话，文字就落在光标那儿。
 不用切输入法；中文、德文、英文…… 646 种语言直接说。
 
-| 项目 | 是什么 |
-|---|---|
-| [dictation-turbo](https://github.com/dajie2014/dictation-turbo) | 全系统版：常驻菜单栏，哪个程序里都能用 |
-| [dsh-dictation-turbo](https://github.com/dajie2014/dsh-dictation-turbo) | 窗口内版：给 DeepSeek Harness 用的插件 |
+### [⬇ 下载最新版](https://github.com/dajie2014/dictation-turbo/releases/latest)（Mac · Apple 芯片）
 
-两个都先要装 [VoiceStudio](https://github.com/debpalash/VoiceStudio)（开源，跑在自己机器上的识别引擎，
-646 种语言）。装它是唯一的前置条件。
+| 项目 | 是什么 | 要什么 |
+|---|---|---|
+| [dictation-turbo](https://github.com/dajie2014/dictation-turbo) | 全系统版：常驻菜单栏，哪个程序里都能用 | 要 [VoiceStudio](https://github.com/debpalash/VoiceStudio) 当听写引擎 |
+| [dsh-dictation-turbo](https://github.com/dajie2014/dsh-dictation-turbo) | 窗口内版：给 DeepSeek Harness 用的插件 | 中文英文不用装别的；要德语才加 VoiceStudio |
 
 ## 我做东西的三条规矩
 
@@ -37,15 +36,14 @@ I make music, and small tools for my own use.
 ## What I'm building
 
 **Dictation Turbo** — double-tap Control anywhere on a Mac, speak, and the text lands at your cursor.
-No input-method switching; 646 languages through VoiceStudio.
+No input-method switching; 646 languages.
 
-| Project | What it is |
-|---|---|
-| [dictation-turbo](https://github.com/dajie2014/dictation-turbo) | System-wide: lives in the menu bar, works in any app |
-| [dsh-dictation-turbo](https://github.com/dajie2014/dsh-dictation-turbo) | In-window plugin for DeepSeek Harness |
+### [⬇ Download the latest release](https://github.com/dajie2014/dictation-turbo/releases/latest) (Mac, Apple silicon)
 
-Both require [VoiceStudio](https://github.com/debpalash/VoiceStudio) — open source, runs locally,
-646 languages. It is the only prerequisite.
+| Project | What it is | Requirements |
+|---|---|---|
+| [dictation-turbo](https://github.com/dajie2014/dictation-turbo) | System-wide: lives in the menu bar, works in any app | Needs [VoiceStudio](https://github.com/debpalash/VoiceStudio) as the speech engine |
+| [dsh-dictation-turbo](https://github.com/dajie2014/dsh-dictation-turbo) | In-window plugin for DeepSeek Harness | Chinese and English need nothing else; German adds VoiceStudio |
 
 ## Three rules I build by
 
