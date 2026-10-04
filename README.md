@@ -34,6 +34,8 @@ Doctorate in composition from the Hanover University of Music
 
 I make music, and small tools for my own use.
 
+## What I'm building
+
 **Dictation Turbo** — double-tap Control anywhere on a Mac, speak, and the text lands at your cursor.
 No input-method switching; 646 languages through VoiceStudio.
 
@@ -42,8 +44,14 @@ No input-method switching; 646 languages through VoiceStudio.
 | [dictation-turbo](https://github.com/dajie2014/dictation-turbo) | System-wide: lives in the menu bar, works in any app |
 | [dsh-dictation-turbo](https://github.com/dajie2014/dsh-dictation-turbo) | In-window plugin for DeepSeek Harness |
 
-Both need [VoiceStudio](https://github.com/debpalash/VoiceStudio) installed — open source, runs locally,
-646 languages.
+Both require [VoiceStudio](https://github.com/debpalash/VoiceStudio) — open source, runs locally,
+646 languages. It is the only prerequisite.
 
-Three rules I build by: **write down every pitfall**, **ship an agent-ready install guide with every
-project**, and **never claim something works when it doesn't**.
+## Three rules I build by
+
+1. **Write down every pitfall.** Every project ships with a list of the ones I hit
+   ([example](https://github.com/dajie2014/dictation-turbo/blob/main/PITFALLS.md)): the symptom, why it
+   happened, and how to get around it — so the next person doesn't have to find out the hard way.
+2. **Ship an agent-ready manual.** The install instructions can be handed to an AI agent as-is, and
+   every step says how to check that the step actually worked.
+3. **Never pretend it worked.** If a test fails, it says so. If something isn't possible, it says so.
