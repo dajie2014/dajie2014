@@ -13,8 +13,11 @@
 
 | 项目 | 是什么 | 要什么 |
 |---|---|---|
-| [dictation-turbo](https://github.com/dajie2014/dictation-turbo) | 全系统版：常驻菜单栏，哪个程序里都能用 | 要 [VoiceStudio](https://github.com/debpalash/VoiceStudio) 当听写引擎 |
-| [dsh-dictation-turbo](https://github.com/dajie2014/dsh-dictation-turbo) | 窗口内版：给 DeepSeek Harness 用的插件 | 中文英文不用装别的；要德语才加 VoiceStudio |
+| [dictation-turbo](https://github.com/dajie2014/dictation-turbo) | 全系统版：常驻菜单栏，哪个程序里都能用 | 要 [VoiceStudio](https://github.com/debpalash/VoiceStudio) 当听写引擎（**免费开源**） |
+| [dsh-dictation-turbo](https://github.com/dajie2014/dsh-dictation-turbo) | 窗口内版：给 DeepSeek Harness 用的插件 | 中文英文不用装别的；要德语才加 VoiceStudio（**也是免费的**） |
+
+> **要装的东西全都不要钱。** VoiceStudio 是免费的开源软件（AGPL-3.0）——
+> 不用花钱，也不用订阅；这两个项目自己都是 MIT。**没有要买的东西。**
 
 ## 我做东西的三条规矩
 
@@ -42,8 +45,12 @@ No input-method switching; 646 languages.
 
 | Project | What it is | Requirements |
 |---|---|---|
-| [dictation-turbo](https://github.com/dajie2014/dictation-turbo) | System-wide: lives in the menu bar, works in any app | Needs [VoiceStudio](https://github.com/debpalash/VoiceStudio) as the speech engine |
-| [dsh-dictation-turbo](https://github.com/dajie2014/dsh-dictation-turbo) | In-window plugin for DeepSeek Harness | Chinese and English need nothing else; German adds VoiceStudio |
+| [dictation-turbo](https://github.com/dajie2014/dictation-turbo) | System-wide: lives in the menu bar, works in any app | Needs [VoiceStudio](https://github.com/debpalash/VoiceStudio) as the speech engine (**free, open source**) |
+| [dsh-dictation-turbo](https://github.com/dajie2014/dsh-dictation-turbo) | In-window plugin for DeepSeek Harness | Chinese and English need nothing else; German adds VoiceStudio (**also free**) |
+
+> **Everything you install here is free.** VoiceStudio is free, open-source software
+> (AGPL-3.0) — nothing to buy, no subscription; both projects are MIT.
+> **There is nothing to purchase.**
 
 ## Three rules I build by
 
