@@ -7,7 +7,7 @@
 ## 我在做的
 
 **Dictation Turbo** —— Mac 上任何地方双击 Control，说一句话，文字就落在光标那儿。
-不用切输入法；中文、德文、英文…… 646 种语言直接说。
+不用切输入法；中文、德文、英文、法文、意大利文、西班牙文、俄文…… 二十多种语言直接说。
 
 ### [⬇ 下载最新版](https://github.com/dajie2014/dictation-turbo/releases/latest)（Mac · Apple 芯片）
 
@@ -39,7 +39,7 @@ I make music, and small tools for my own use.
 ## What I'm building
 
 **Dictation Turbo** — double-tap Control anywhere on a Mac, speak, and the text lands at your cursor.
-No input-method switching; 646 languages.
+No input-method switching; Chinese, German, English, French, Italian, Spanish, Russian — 20+ languages.
 
 ### [⬇ Download the latest release](https://github.com/dajie2014/dictation-turbo/releases/latest) (Mac, Apple silicon)
 
