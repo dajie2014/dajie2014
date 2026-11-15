@@ -15,9 +15,13 @@
 |---|---|---|
 | [dictation-turbo](https://github.com/dajie2014/dictation-turbo) | 全系统版：常驻菜单栏，哪个程序里都能用 | 要 [VoiceStudio](https://github.com/debpalash/VoiceStudio) 当听写引擎（**免费开源**） |
 | [dsh-dictation-turbo](https://github.com/dajie2014/dsh-dictation-turbo) | 窗口内版：给 DeepSeek Harness 用的插件 | 中文英文不用装别的；要德语才加 VoiceStudio（**也是免费的**） |
+| [casting-studio](https://github.com/dajie2014/casting-studio) | 创作台：有声幻灯片 / 有声课件 / 广播剧 / 主题歌，机器一次干一件，最后拼成片子 | 面板要装进 DeepSeek Harness；**出声出画得自备后端**（TTS、Crafting Caster、MIR、VoiceCaster）—— 缺哪条，对应功能就明说不在 |
 
-> **要装的东西全都不要钱。** VoiceStudio 是免费的开源软件（AGPL-3.0）——
-> 不用花钱，也不用订阅；这两个项目自己都是 MIT。**没有要买的东西。**
+> **听写那两个项目要装的东西全都不要钱。** VoiceStudio 是免费的开源软件（AGPL-3.0）——
+> 不用花钱，也不用订阅；那两个项目自己都是 MIT。**没有要买的东西。**
+>
+> **创作台是另一回事**：它自己也是 MIT，但要出声出画得有后端（TTS、配乐/出图、出歌出谱）。
+> 那些后端和它们的模型不归我发，各有各的许可 —— 有的免费，有的不是。缺了就用不起那一块。
 
 ## 我做东西的三条规矩
 
@@ -47,10 +51,16 @@ No input-method switching; Chinese plus 18 European languages — every one of t
 |---|---|---|
 | [dictation-turbo](https://github.com/dajie2014/dictation-turbo) | System-wide: lives in the menu bar, works in any app | Needs [VoiceStudio](https://github.com/debpalash/VoiceStudio) as the speech engine (**free, open source**) |
 | [dsh-dictation-turbo](https://github.com/dajie2014/dsh-dictation-turbo) | In-window plugin for DeepSeek Harness | Chinese and English need nothing else; German adds VoiceStudio (**also free**) |
+| [casting-studio](https://github.com/dajie2014/casting-studio) | Casting Studio: audiovisual pipeline — narrated slides, course decks, radio plays and songs, one job at a time | The panel needs DeepSeek Harness; **audio and images need your own backends** (TTS, Crafting Caster, MIR, VoiceCaster). Anything missing says so plainly. |
 
-> **Everything you install here is free.** VoiceStudio is free, open-source software
-> (AGPL-3.0) — nothing to buy, no subscription; both projects are MIT.
+> **The two dictation projects install for free.** VoiceStudio is free, open-source
+> software (AGPL-3.0) — nothing to buy, no subscription; both projects are MIT.
 > **There is nothing to purchase.**
+>
+> **Casting Studio is a different story.** Its code is MIT too, but it needs backends
+> (TTS, music/imagery, song and score engines) to actually make sound or pictures.
+> Those backends and their models are not mine to license: some are free, some are not.
+> Whatever is missing simply says so.
 
 ## Three rules I build by
 
